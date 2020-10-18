@@ -66,6 +66,10 @@ typedef DOIBONG DB;
 			xuatds(a,n);
 		
 	}
+	void sxt()
+	{
+		
+	}
 int main()
 	{
 		DOIBONG a[max];
